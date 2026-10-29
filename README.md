@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Noor Academy Typing Tutor
 
 An original, frontend-only typing tutor for Noor Academy Larkana. Student records are stored in the browser's local storage; there is no account system or shared server.
@@ -34,3 +35,6 @@ Gross WPM is total printable character entries divided by five and elapsed minut
 ## Deployment
 
 The production build is static and can be deployed to GitHub Pages, Cloudflare Pages, or another static host. Configure the host to build with `npm run build` and publish `dist/`. Client-side records remain in each browser and do not sync between computers. Shared student reporting requires a separately secured backend and database.
+=======
+# noor-academy-typing
+>>>>>>> 035231f7b9344fc1860d7a8c3a187b1e3846439b
